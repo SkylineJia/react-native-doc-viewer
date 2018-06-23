@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/4e4e203a6e4df74b28060a4846ba5ce0/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/4e4e203a6e4df74b28060a4846ba5ce0/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/4e4e203a6e4df74b28060a4846ba5ce0/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/4e4e203a6e4df74b28060a4846ba5ce0/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/4e4e203a6e4df74b28060a4846ba5ce0/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/4e4e203a6e4df74b28060a4846ba5ce0/res/anim/catalyst_push_up_in.xml"
+    }
+]

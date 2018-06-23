@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/xml/filepaths.xml",
+        "source": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/bundles/debug/res/xml/filepaths.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/4e4e203a6e4df74b28060a4846ba5ce0/res/xml/preferences.xml"
+    }
+]

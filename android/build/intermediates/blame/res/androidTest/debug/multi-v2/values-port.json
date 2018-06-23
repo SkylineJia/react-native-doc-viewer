@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "55",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "55",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

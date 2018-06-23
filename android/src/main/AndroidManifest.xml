@@ -1,7 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.philipphecht">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.RNDocViewer">
  <application>
       <provider
-            android:name="com.philipphecht.FileProviderClass"
+            android:name="com.com.RNDocViewer.FileProviderClass"
             android:authorities="${applicationId}.docViewer_provider"
             android:exported="false"
             android:grantUriPermissions="true">

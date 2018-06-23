@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/skyline/Desktop/中国尊App/chinaZun/trunk/resource/local_modules/react-native-doc-viewer/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/skyline/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/3e17608011e70abfdd56a2ec18b8a3f3/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
